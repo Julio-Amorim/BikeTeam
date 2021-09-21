@@ -1,11 +1,11 @@
 var instance = M.Carousel.init({
-    fullWidth: false,
+    fullWidth: true,
     indicators: true
   });
 
   // Or with jQuery
 
   $('.carousel.carousel-slider').carousel({
-    fullWidth: false,
+    fullWidth: true,
     indicators: true
   });
